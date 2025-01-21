@@ -33,6 +33,7 @@ Easy-to-use menu with the following options:
 2. Enter a PSN username when prompted.
 3. The program will display the account details for the entered username.
 4. After viewing the account details, a menu will appear with the following options:
+
    - Continue: Search for another PSN username.
    - Exit: Close the program.
 
