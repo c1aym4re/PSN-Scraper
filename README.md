@@ -6,6 +6,7 @@ A simple and efficient PSN (PlayStation Network) Web Scraper built in C# to sear
 
 - Search for PlayStation accounts by username.
 - Displays account details: ```Online ID```, ```User ID```, and ```Encoded ID```.
+  
 Easy-to-use menu with the following options:
 Continue – Search for another PSN username.
 Exit – Close the program.
